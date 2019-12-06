@@ -10,7 +10,6 @@ rm thetop
 
 # Compile all the body files into the chapter files
 
-
 mychapter=s04-introduction-to-law-and-legal-.html
 head -26 $mychapter > ./temp/thetop.html
 tail -n 23 $mychapter > ./temp/thebottom
