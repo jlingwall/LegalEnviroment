@@ -61,6 +61,14 @@ We need a rule. [The Cube Rule will do.](https://cuberule.com/)
 
 ## Sources (and priority) of law {data-background=mark-rabe-zCJrolkwRyE-unsplash.jpg data-background-size=cover}
 
+<div class="notes">
+- Constitutions (as interpreted by Supreme Courts)
+- Statutes
+- Regulations (also called "rules", just to be confusing)
+- Court decisions
+  - _Note: These also give you the list to workdown to find legal rules. First, does a constitution speak to the question? Next, does a statute? And so on._
+</div>
+
 # How to Read a Court Case: <br /> <a href="https://jlingwall.github.io/LegalEnvironment/s04-06-a-sample-case.html">Harris v. Forklift Systems</a>
 
 # Further excercises: <br /> <a href="https://jlingwall.github.io/LegalEnvironment/s04-07-summary-and-exercises.html">Should time permit </a>
