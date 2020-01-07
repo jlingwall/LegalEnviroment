@@ -8,10 +8,7 @@ output:
     css: style1.css
 ---
 
-```{r header, include=FALSE}
-library(htmltools)
-library(vembedr)
-```
+
 
 ## Ethics is not the law
 
@@ -110,7 +107,7 @@ Corporate Social Responsibility (CSR) says companies should consider the needs o
 > - What can you find out in five minutes?
 > - Does this make you more likely to buy from this company?
 
-# Further excercises: <br /> <a href="s05-05-summary-and-exercises.html">Should time permit </a>
+# Further excercises: <br /> <a href="../s05-05-summary-and-exercises.html">Should time permit </a>
 
 <!-- 'f' enable fullscreen mode -->
 

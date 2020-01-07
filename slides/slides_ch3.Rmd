@@ -1,0 +1,82 @@
+---
+title: "Courts and the Legal Process"
+author: "Business Law: An Introduction, ch. 3"
+date: "v. 1.1.4"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    css: style1.css
+---
+
+# 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gjO1tPx2NBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## How can we dig deeper?
+<center><img src="civpro_1.png"></center>
+
+
+## 
+<center><img src="civpro_2.png"></center>
+
+## 
+<center><img src="civpro_3.png"></center>
+
+## 
+<center><img src="civpro_4.png"></center>
+
+## 
+<center><img src="civpro_5.png"></center>
+
+## 
+<center><img src="civpro_6.png"></center>
+
+## 
+<center><img src="civpro_7.png"></center>
+
+## 
+<center><img src="civpro_8.png"></center>
+
+## 
+<center><img src="civpro_9.png"></center>
+
+## 
+<center><img src="civpro_10.png"></center>
+
+## Should the court grant a restraining order?
+
+Temporary restraining order. (a) Generally. If, on a motion for a preliminary injunction, the plaintiff shall show that **immediate and irreparable injury**, loss or damages will result unless the defendant is restrained before a hearing can be had, a temporary restraining order may be granted without notice.
+
+## 
+<center><img src="civpro_11.png">  </center>
+
+
+# <a href="https://www.independent.ie/style/weddings/this-brides-wedding-was-ruined-as-say-yes-to-the-dress-aired-her-episode-before-her-big-day-34575814.html">The dress!</a>
+
+
+## Civil Procedure 101
+<center><img src="civpro_12.png"></center>
+
+## Courts need "jurisdiction" to decide a case {data-background=mark-rabe-zCJrolkwRyE-unsplash.jpg data-background-size=cover}
+- Original versus appellate
+- Personal and subject matter
+- State versus federal
+
+
+## Federal Appellate Courts
+<center><img src="dc5c25f17475ccc91361245d6fba72b5.jpg", height=400></center>
+
+## Alternate Dispute Resolution
+- Mediation
+- Arbitration
+
+# <a href="../s06-09-cases.html">More practice</a>, if time permits
+
+<!-- 'f' enable fullscreen mode -->
+
+<!-- 'w' toggle widescreen mode -->
+
+<!-- 'o' enable overview mode -->
+
+<!-- 'h' enable code highlight mode -->
+
+<!-- 'p' show presenter notes -->
