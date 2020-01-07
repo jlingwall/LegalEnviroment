@@ -1,0 +1,85 @@
+---
+title: "Law and Legal Systems"
+author: "Business Law: An Introduction, ch. 1"
+date: "v. 1.1.4"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    css: style1.css
+---
+
+# What is "law"? 
+
+## Law and the Lemonade Stand {data-background=markus-spiske-s05XKB6jK2c-unsplash.jpg data-background-size=cover}
+
+- Consider the simplest possible business: [a lemonade stand](https://www.economist.com/united-states/2015/07/09/is-lemonade-legal)
+  - _Should_ the police have shut them down?
+
+## Schools of legal thought, briefly
+
+- Legal positivism: law is what the sovereign commands
+- Natural law: find universal moral order
+- Legal realists: law depends on judges whims, social context, etc
+- Critical legal studies: law flows from power, law is politics
+
+# Anatole France said, "The law, in its majesty, forbids rich and poor alike from sleeping under bridges." <br /> <br /> Which school of legal thought is represented by this quote?
+
+# When Nazi Adolf Eichmann was placed on trial, he claimed he was "just following orders". <br /> <br /> Which school of legal thought is represented by this quote?
+
+## Legal reasoning in a nutshell 
+- What is the Issue?
+- What is the Rule?
+- What is your Analysis? (Apply the facts to the Rule.)
+- What is your Conclusion?
+
+## IRAC practice 
+
+<center><img src="peter-secan-kKXBw9Exn30-unsplash.jpg" height="400px" />
+
+Is a hot dog a sandwich?
+
+</center>
+
+
+
+## IRAC practice 
+
+<center><img src="peter-secan-kKXBw9Exn30-unsplash.jpg" height="400px" />
+
+Is a hot dog a sandwich?
+
+We need a rule. [The Cube Rule will do.](https://cuberule.com/)
+
+
+</center>
+
+
+
+
+
+# IRAC: Is there a sense in which non-governmental entities, such as a church or social group, exercise "law"?
+
+## Sources (and priority) of law {data-background=mark-rabe-zCJrolkwRyE-unsplash.jpg data-background-size=cover}
+
+# How to Read a Court Case: <br /> <a href="https://jlingwall.github.io/LegalEnvironment/s04-06-a-sample-case.html">Harris v. Forklift Systems</a>
+
+# Further excercises: <br /> <a href="https://jlingwall.github.io/LegalEnvironment/s04-07-summary-and-exercises.html">Should time permit </a>
+
+## Class Procedure
+
+Now that substance is done
+
+- Syllabus
+- Pictures with names
+- Extra credit
+
+
+<!-- 'f' enable fullscreen mode -->
+
+<!-- 'w' toggle widescreen mode -->
+
+<!-- 'o' enable overview mode -->
+
+<!-- 'h' enable code highlight mode -->
+
+<!-- 'p' show presenter notes -->
