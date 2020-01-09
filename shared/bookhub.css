@@ -56,6 +56,7 @@ body {
     margin-right: auto;
     padding-left: 0%;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    /*font-family: 'Lusitana', serif;*/
     /*background-color: #fffff8;*/
     color: #111;
     max-width: 1400px;
