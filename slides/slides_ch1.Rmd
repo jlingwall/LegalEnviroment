@@ -8,20 +8,22 @@ output:
     css: style1.css
 ---
 
-# What is "law"? 
 
 ## Law and the Lemonade Stand {data-background=markus-spiske-s05XKB6jK2c-unsplash.jpg data-background-size=cover}
 
 - Consider the simplest possible business: [a lemonade stand](https://www.economist.com/united-states/2015/07/09/is-lemonade-legal)
   - _Should_ the police have shut them down?
 
-## What _is_ law good for?
+
+# What is "law"? 
+
+## Should the law do something here?
 Lindsey Paradise is not selected for her sorority of choice at the University of Kansas. She has spent all her time rushing that particular sorority, which chooses some of her friends but not her. She is disappointed and angry and wants to sue the sorority. What are her prospects of recovery in the legal system? 
 
-## What _is_ law good for?
+## Should the law do something here?
 In 2015, many boxing fans paid a substantial sum to view the "Fight of the Century" between Floyd Mayweather Jr. and Manny Pacquiao. The fight turned out to be a snoozer, perhaps because Pacquiao had an undisclosed injury. Many people were upset and decided to sue. Should the court order a refund because the fight was not as good as expected?
 
-## What _is_ law good for?
+## Should the law do something here?
 "Trade dress" is an intellectual property term describing the appearance of a product, identifying its source. The US Patent and Trademark Office registered as trade dress to Al Johnson's Swedish Restaurant the image of goats on a roof. An attorney unrelated to the restaurant challenged this grant, alleging it is "demeaning to" goats and "denigrates the value he ... places on the respect, dignity, and worth of animals.” Should the attorney be allowed to bring this lawsuit? If not, who will speak for the goats?
 
 <center><img src="goats_on_a_roof.jpeg" height="300"></center>
@@ -33,9 +35,15 @@ In 2015, many boxing fans paid a substantial sum to view the "Fight of the Centu
 - Legal realists: law depends on judges whims, social context, etc
 - Critical legal studies: law flows from power, law is politics
 
-# Anatole France said, "The law, in its majesty, forbids rich and poor alike from sleeping under bridges." <br /> <br /> Which school of legal thought is represented by this quote?
+Practice on next slides: which school of legal thought is represented?
 
-# When Nazi Adolf Eichmann was placed on trial, he claimed he was "just following orders". <br /> <br /> Which school of legal thought is represented by this quote?
+# Anatole France said, "The law, in its majesty, forbids rich and poor alike from sleeping under bridges"
+
+# In Pirates of the Carribean, Admiral Norrington says "Vile and           dissolute creatures, the lot of them. I intend to see to it that           any man who sails under a pirate flag, or wears a pirate brand, gets what he deserves ...."
+
+# When Nazi Adolf Eichmann was placed on trial, he claimed he was "just following orders" 
+
+# Benjamin Franklin said "Laws too gentle are seldom obeyed; to severe, seldom executed"
 
 ## Legal reasoning in a nutshell 
 - What is the Issue?
