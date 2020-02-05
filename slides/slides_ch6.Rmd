@@ -116,6 +116,9 @@ At the outset of our analysis, we observe that the legal reasoning involved in d
 - Robbery
 	+ Larceny from a person by means of violence or intimidation.
 
+#
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QfAe6Z3eAF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Fourth Amendment {data-background=fountainpen.jpg data-background-size=cover}
 
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
