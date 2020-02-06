@@ -1,0 +1,199 @@
+---
+title: "Torts"
+author: "Business Law: An Introduction, ch. 7"
+date: "v. 1.1.4"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    css: style1.css
+---
+
+
+<!-- Overall style -->
+
+<!-- Text color -->
+<style type="text/css">
+body p  {
+  color: #202020;
+}
+body ul {
+  color: #202020;
+}
+
+</style>
+
+<!-- Background images -->
+<!-- concrete.jpg mountains.jpg skyline.jpg roadmap.jpg-->
+
+
+## The Illiad {data-background=skyline.jpg data-background-size=cover}
+
+But Achilles hath wrought to fury the proud heart within him, cruel man! neither recketh he of the love of his comrades wherewith we ever honoured him amid the ships above all others—pitiless one! Lo, a man accepteth recompense from the slayer of his brother, or for his dead son; and the slayer abideth in his own land for the paying of a great price, and the kinsman's heart and proud spirit are restrained by the taking of recompense.
+
+# {data-background=ideaoftort.jpg data-background-size=cover}
+
+<!-- In this class exercise we try to come up with universal rules: what should the law do in each case? Generally, there's always room to push back on the proposed rules. -->
+
+# If the notion of tort law is ancient, can we intuit it?
+
+#
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOwhG_y0HQg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fmwnxTjphHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddXUQu9RC4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rxDK-gjx_48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Roadmap {data-background=roadmap.jpg data-background-size=cover}
+
+- What _are_ torts?
+- Intentional torts
+	+ E.g., assault and battery
+- Negligence
+	+ Unintentional carelessness which results in harm
+- Strict liability
+	+ Briefly, as we will cover during product liability
+
+
+## What is a tort? {data-background=skyline.jpg data-background-size=cover}
+
+A tort is a legally-actionable wrong. If you or your property has been injured by another, tort law is likely your remedy.
+
+## What’s the point? First, make you whole {data-background=skyline.jpg data-background-size=cover}
+
+- Put you in the same position as if there had been no tort
+- Compensatory damages
+	+ Special damages = we can put a price tag on it
+		+ Medical expenses, lost wages
+	+ General damages = harder to put a price tag on
+		+ Pain and suffering
+		+ Loss of companionship
+		+ Disfigurement
+
+## What’s the point? At times, punish {data-background=skyline.jpg data-background-size=cover}
+- Punitive damages
+	+ Punish the wrongdoer
+	+ Generally only available for intentional torts and gross negligence, with a higher degree of culpability
+	+ Due process limitations ....
+
+
+
+# Intentional Torts
+
+## Battery {data-background=skyline.jpg data-background-size=cover}
+
+ Battery is ...
+
+ - unauthorized
+ - intentional
+ 	+ actual intent, or
+ 	+ substantial certainty
+ - harmful or offensive 
+ - physical contact 
+ - with another person or their immediate property.
+
+## Assault {data-background=skyline.jpg data-background-size=cover}
+
+Assault is ...
+
+- intent to cause
+- the **threat** of immediate harm or offensive contact
+
+## <a href="https://www.dropbox.com/s/kkhxyrajb5s3enf/England%20v%20S%26M%20Foods.pdf?dl=0">England v. S&M Foods</a> {data-background=skyline.jpg data-background-size=cover}
+
+<center><img src="burger.jpg" height="400px"></center>
+
+<div class="footer"><center>**What counts as intent?**</center></div>
+ 
+# {data-background=garret.jpg data-background-size=cover} 
+
+# 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xRlRAyulN4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# How much is <a href="https://www.theatlantic.com/politics/archive/2016/02/scapegoats-in-the-culture-war/462918/">too much?</a>
+
+## Other intentional torts? {data-background=skyline.jpg data-background-size=cover}
+
+Against persons
+
+- False imprisonment
+- IIED
+- Defamation (libel / slander / slander per se)
+	+ <a href="https://abovethelaw.com/2015/09/judge-rules-yelp-review-not-covered-by-first-amendment/">Practice!</a>
+- Privacy torts
+- Fraudulent misrepresentation (fraud, for short)
+	+ <a href="https://www.youtube.com/watch?v=XCwy6lW5Ixc">Practice!</a>
+- Abusive litigation
+
+#
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gK0omJb6sa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ihQ1-LQOkns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Other intentional torts? {data-background=skyline.jpg data-background-size=cover}
+
+Against property
+
+- Trespass to land
+- Trespass to chattels
+- Conversion
+
+# 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uAERYfeiYBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBaQwGTHCL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Negligence 
+
+## Elements of negligence {data-background=skyline.jpg data-background-size=cover}
+
+- A duty of care
+- That was breached 
+- That caused
+	+ But for _and_ proximate
+- Actual damage or loss
+
+## Palsgraf v. Long Island Railway Co.: proximate cause!
+
+<center><img src="train.jpg" height="400px"></center>
+
+
+# <a href="https://www.dropbox.com/s/hv0rajbz8kbm840/HODGES%20v.%20NOFSINGER.pdf?dl=0">Hodges v. Nofsinger</a>: comparative negligence
+
+## Taylor v. Baseball Club of Seattle: assumption of the risk
+
+<center><img src="baseball.jpg" height="400px"></center>
+
+
+## Leibeck v. McDonalds: reasonable damages? Comparative negligence? 
+
+<center><img src="coffee.jpg" height="400px"></center>
+
+
+
+# Vosburg v. Putney: the eggshell rule
+
+
+## Strict Liability  {data-background=skyline.jpg data-background-size=cover}
+
+- Ultrahazardous activities, such as keeping wild animals
+- Product liability
+	+ We will cover in another chapter
+
+<!-- 'f' enable fullscreen mode -->
+
+<!-- 'w' toggle widescreen mode -->
+
+<!-- 'o' enable overview mode -->
+
+<!-- 'h' enable code highlight mode -->
+
+<!-- 'p' show presenter notes -->
