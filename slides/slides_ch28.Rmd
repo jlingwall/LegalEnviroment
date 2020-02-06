@@ -79,7 +79,7 @@ It might be useful if the law established some sort of priority among these part
 
 Article 9 of the UCC (as enacted by states) governs secured transactions
 
-- **Security interst**: an interest in personal property or fixtures which secures payment or performance of an obligation
+- **Security interest**: an interest in personal property or fixtures which secures payment or performance of an obligation
 - **Collateral**: means the property subject to a security interest 
 - **Purchase-money security interest (PMSI)**: arises when the debtor gets credit to buy goods and the creditor takes a secured interest in those goods
 - **Secured party**: a person in whose favor a security interest is created or provided for under a security agreement
