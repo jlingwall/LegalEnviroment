@@ -89,11 +89,11 @@ Lee v. State, 100 So.3d 1183 (2012)
 
 At the outset of our analysis, we observe that the legal reasoning involved in deciding whether a shoe is a "deadly weapon" is somewhat unusual. It is unusual due to a combination of two factors. First, a shoe is not inherently a deadly weapon; its use determines whether it falls within this category. The standard jury instructions explain that a weapon is a "deadly weapon" if it is "used or threatened to be used in a way likely to produce death or great bodily harm." Fla. Std. Jury Instr. (Crim.) 8.2, 8.4. Second, the case law generally recognizes that a person's hands and feet, at least in the absence of special training, are not deadly weapons. See Davis v. State, 565 So.2d 826 (Fla. 5th DCA 1990) (evidence that a defendant used a hand or foot in a battery does not establish aggravated battery); Dixon v. State, 603 So.2d 570 (Fla. 5th DCA 1992) (en banc) (generally bare hands are not deadly weapons).
 
-<div class="notes">See https://loweringthebar.net/2016/02/is-an-alligator-a-deadly-weapon.html</div>
+<div class="notes">See https://web.archive.org/web/20200206220310/https://loweringthebar.net/2016/02/is-an-alligator-a-deadly-weapon.html</div>
 
 ## One more ... {data-background=ks-kyung-xNJJvB0AkZ8-unsplash.jpg data-background-size=cover}
 
-<a href="https://loweringthebar.net/2015/12/utah-woman-charged-with-causing-egg-catastrophe.html">Is egging an act of terrorism?</a>
+<a href="https://web.archive.org/web/20200206220352/https://loweringthebar.net/2015/12/utah-woman-charged-with-causing-egg-catastrophe.html">Is egging an act of terrorism?</a>
 
 ## Types of crimes: examples {data-background=concrete.jpg data-background-size=cover}
 
