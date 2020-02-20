@@ -186,6 +186,12 @@ Common problems ….
 - <em>Mental incompetence</em>
 	+ Void if previously declared incompetent, otherwise voidable
 
+## Capacity {data-background=parrot.jpg data-background-size=cover}
+
+Capacity to contract?
+
+<img src="arrow.jpg" width="500px">
+
 ## Does it need to be in writing?  {data-background=parrot.jpg data-background-size=cover}
 
 <em>Statute of Frauds:</em>
@@ -280,7 +286,7 @@ Contracts may also be illegal because courts choose not to enforce them as a mat
 	+ Often the preferred remedy. Just let it go.
 - <em>Seek expectation damages</em>
 	+ Put you in the same position as if the contract had been fulfilled
-	+ E.g., if A contracts to sell B a marker for $1, and then A breaches, if B finds a marker from an alternative source for $1.50, the damages are $0.50. This puts B in the same position as if A had fulfilled the contract.
+	+ E.g., if A contracts to sell B a parrot for $100, and then A breaches, if B finds a parrot from an alternative source for $150, the damages are $50. This puts B in the same position as if A had fulfilled the contract.
 	+ May be unavailable if they can't be calculated with reasonable certainty, such as a new business
 
 ## Contract remedies in a nutshell {data-background=parrot.jpg data-background-size=cover}
@@ -300,7 +306,7 @@ Contracts may also be illegal because courts choose not to enforce them as a mat
 
 - You can specify what the damages will be <em>in the contract!</em>
 - These are enforceable, so long as they are reasonable.
-	+ E.g., no million dollar liquidated damages clauses for sale of a marker, as that would essentially be creating specific performance.
+	+ E.g., no million dollar liquidated damages clauses for sale of a parrot, as that would essentially be creating specific performance.
 
 
 
