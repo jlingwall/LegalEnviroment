@@ -7,6 +7,17 @@ output:
     widescreen: true
     css: style1.css
 ---
+<style type="text/css">
+body p  {
+  color: #202020;
+}
+body ul {
+  color: #202020;
+}
+body ol {
+  color: #202020;
+}
+</style>
 
 ## Introduction {data-background=mountains.jpg data-background-size=cover}
 
@@ -83,13 +94,19 @@ For an example in practice, see <a href="https://en.wikipedia.org/wiki/Net_Neutr
 
 
 <center>
-<img src="rulemaking2.png" height="300px"></center>
+<img src="rulemaking2.png" height="100px"></center>
 
  - Informal agency action
  	+ Guidance documents
  	+ Warning letters
  	+ Courts may treat as highly persuasive!
  	+ <a href="https://news.bloomberglaw.com/daily-labor-report/trump-orders-to-limit-effect-of-agency-guidance-to-industry">But see ...</a>
+
+## Back to our land example ... {data-background=mountains.jpg data-background-size=cover}
+
+Congress has left much federal land management law up to agencies. This means that the laws pertaining to public land can change dramatically based on the party in power. The law can shift towards conservation or commodification easily, without act of Congress. 
+
+(Congress could, of course, overrule agency action through statute, but this would be rare.)
 
 ## The APA (Administrative Procedure Act) {data-background=mountains.jpg data-background-size=cover}
 
@@ -107,7 +124,7 @@ For an example in practice, see <a href="https://en.wikipedia.org/wiki/Net_Neutr
 - Not all Supreme Court justices like this, so its days may be numbered
 	+ <em>Chevron</em> deference gives judicial power to the executive branch
 
-## The Administrative Burden on Business ... {data-background=mountains.jpg data-background-size=cover}
+## The Administrative Burden on Business ... 
 
 ... is enormous. 
 
@@ -127,7 +144,7 @@ For an example in practice, see <a href="https://en.wikipedia.org/wiki/Net_Neutr
 
 Before you can complain to court about an agency’s action, you must first try to get the agency to reconsider its action. Generally, you must have asked for a hearing at the hearing examiner level, there must have been a decision reached that was unfavorable to you, and you must have appealed the decision to the full board.
 
-See <a href="https://www.oyez.org/cases/2011/10-1062">Sackett v. EPA</a>. What do you learn about exhausting agency action? What other doctrines does this case illustrate?
+For an example from land use, see <a href="https://www.oyez.org/cases/2011/10-1062">Sackett v. EPA</a>. What do you learn about exhausting agency action? What other doctrines does this case illustrate?
 
 ## Practice {data-background=mountains.jpg data-background-size=cover}
 
