@@ -283,6 +283,14 @@ Contracts may also be illegal because courts choose not to enforce them as a mat
 
 # 4. What are the remedies for broken contracts?
 
+## Substantial performance {data-background=parrot.jpg data-background-size=cover}
+
+If one party to a common law contract "substantially" performs, the other party must perform.
+
+They may then sue for damages.
+
+Under the UCC, the rule is "perfect tender"
+
 ## Contract remedies in a nutshell {data-background=parrot.jpg data-background-size=cover}
 
 - <em>Waive the breach</em>
