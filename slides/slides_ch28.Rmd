@@ -73,6 +73,9 @@ It might be useful if the law established some sort of priority among these part
 # 
 <center><img src="../section_31/7437424f75f733061c5c741252aa1d81.jpg" height="550px"></center>
 
+## Practice {data-background=mountains.jpg data-background-size=cover}
+
+After you’ve worked for a large firm for a few years, Pete, a friend from college, approaches you for a loan of $20,000. He’s starting a lawn-care business and needs to purchase equipment. You make the loan, and have Pete sign a promissory note payable to your order at regular installments over the next five years. Pete has been paying on time, but now his brother Repete is involved in the business, and you’re concerned. (Repete has a long history of failed business ventures, and you’ve noticed that customers have started not to renew their contracts now that Repete is involved.) You think the business could thrive if Repete were out of the picture, but you’re concerned that the business as-is will fail and you won’t be repayed. You want to be repayed in full– what options do you have? What should you have done to avoid this problem?
 
 
 ## Some definitions {data-background=mountains.jpg data-background-size=cover}
@@ -105,6 +108,31 @@ How specific do you need to describe the collateral? Specific is usually better.
 - "All debtor's inventory"
 - But _not_ "all debtor's consumer goods" (overly broad and punitive)
 
+
+## Practice {data-background=mountains.jpg data-background-size=cover}
+
+Can the following email constitute a security agreement? See UCC § 9-203, 9-102.
+
+<em>From:</em> Danny Ocean, danny.ocean@oceans12.com
+
+<em>Sent:</em> June 7, 2017, 12:58 PM
+
+<em>To:</em> Rusty Pitt
+
+<em>Subject:</em> That loan we talked about
+
+I hereby give you a security interest in my 2010 Tesla Model T, Vin number x2348908s849, in exchange for a loan of $10,000. Thanks much.
+
+
+## Practice {data-background=mountains.jpg data-background-size=cover}
+
+What about a video message left on Skype, in which Danny says the same thing?
+
+## Practice {data-background=mountains.jpg data-background-size=cover}
+
+What if you delete the video message. Does it still count?
+
+
 ## Repossession {data-background=mountains.jpg data-background-size=cover}
 
 Once a security interest is attached, new legal remedies come into play. For example, upon default the secured party can seize the collateral to satisfy the debt. The secured party does not need a court order, so long as the repossession does not breach the peace.
@@ -123,6 +151,10 @@ Once a security interest is attached, new legal remedies come into play. For exa
 	+ Sneaking into a yard at night and racing off
 	+ Cutting a lock when agreement allows
 	+ Burning rubber before debtor objects
+
+## Practice {data-background=mountains.jpg data-background-size=cover}
+
+A few months ago, you loaned your friend Tim $500 to buy a bike. He wrote you an "IOU" (which read in its entirety "I owe you $500, Tim"), but he never paid you back, and he’s avoiding you. You know he just keeps the bike on his back porch–can you just go get it and call it even?
 
 ## Priority among multiple lenders {data-background=mountains.jpg data-background-size=cover}
 
@@ -148,9 +180,14 @@ Perfection puts the world on notice of your security interest, and so gives you 
 <center><img src="../section_31/8ee0b06d7d2ee70326cf397a9c94f340.jpg" height="570px">
 </center>
 
+## Practice {data-background=mountains.jpg data-background-size=cover}
+
+How would you perfect a security interest in cash from concessions at a basketball game? See UCC §§ 9-312, 9-313.
+
 ## Automatic perfection {data-background=mountains.jpg data-background-size=cover}
 
 Some security interests will automatically perfect. For example, a PMSI in consumer goods. When lending, you have little way to know if something like this exists without really doing your research before making a loan.
+
 
 ## Other rules on priority {data-background=mountains.jpg data-background-size=cover}
 
@@ -164,6 +201,20 @@ A "buyer in the ordinary course" will take free of even a perfected security int
 
 (They will not take free of a prior security interest, so it can be difficult to purchase goods and be _absolutely_ sure there are no prior rights!)
 
+
+## Practice  {data-background=mountains.jpg data-background-size=cover}
+
+
+You just bought a used grand piano from a local music store, DoReMe Music, paying cash. The day after you got the piano home, a repo guy shows up at your door demanding the piano. You remember your commercial law class and say "I’m a buyer in the ordinary course of business. I take free of any security interests!" The repo man says "Well, DoReMe bought it from ABC Music, and ABC bought it from XYZ Music, subject to a security interest." Can he take the piano? If yes, what could you do to protect yourself from this happening again?
+
+## Practice  {data-background=mountains.jpg data-background-size=cover}
+
+You work at a bank, which is considering making a loan to Sarah Goldman, a rich local comedian, secured by various pieces of property. You’ve checked the UCC filings online, and no prior filings show up. You know you’ll have priority over security interests perfected by filing later, but you’re worried about other types of perfection. For an expensive grill on Sarah’s patio, what kinds of interests might we be worried about? 
+
+## Practice  {data-background=mountains.jpg data-background-size=cover}
+
+On the Sarah Goldman problem above, what about a painting held at a neighbor’s house? See § 9-313.
+
 ## Proceeds {data-background=mountains.jpg data-background-size=cover}
 
 A security interest will continue in the proceeds from collateral, and from the proceeds of proceeds, and so on!
@@ -174,6 +225,18 @@ A security interest will continue in the proceeds from collateral, and from the 
 ## Proceeds {data-background=mountains.jpg data-background-size=cover}
 
 What stops everything from becoming proceeds? The secured party needs to be able to trace back to the original collateral.
+
+## Practice {data-background=mountains.jpg data-background-size=cover}
+
+You have a perfected security interest in "all equipment and accounts" of Raven, Inc. The security agreement says nothing about proceeds, after-acquired property, or substitutions. Do you have a security interest in the cash on hand at Raven?
+
+What about a computer on-hand at the time the security agreement was executed?
+
+## Practice {data-background=mountains.jpg data-background-size=cover}
+
+What about a second computer, bought by Raven after the security agreement was executed?
+
+What about a third computer, acquired as a trade-in for the first computer?
 
 ## Secured party's rights upon default  
 
