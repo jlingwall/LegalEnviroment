@@ -30,8 +30,22 @@ body ul {
 # {data-background=IP_images/Slide1.jpeg data-background-size=contain}
 # {data-background=IP_images/Slide2.jpeg data-background-size=contain}
 # {data-background=IP_images/Slide3.jpeg data-background-size=contain}
-# {data-background=IP_images/Slide4.jpeg data-background-size=contain}
-# {data-background=IP_images/Slide5.jpeg data-background-size=contain}
+
+
+## Analyzing trademark claims
+
+Use the IRAC framework
+
+- Issue
+	+ Is the defendant infringing the plaintiff's trademark?
+- Rule
+	+ Consumer confusion?
+	+ Famous mark that has its reputation harmed?
+- Analysis
+- Conclusion
+
+
+
 # {data-background=IP_images/Slide6.jpeg data-background-size=contain}
 # {data-background=IP_images/Slide7.jpeg data-background-size=contain}
 # {data-background=IP_images/Slide8.jpeg data-background-size=contain}
@@ -96,6 +110,10 @@ Animal toy
 <img src="IP_images/stick.jpg" height="500px">
 </center>
 
+## The Race
+
+The first to <em>file</em> a patent with the USPTO gets protection, not the first to invent!
+
 # {data-background=IP_images/Slide36.jpeg data-background-size=contain}
 # {data-background=IP_images/Slide37.jpeg data-background-size=contain}
 # {data-background=IP_images/Slide38.jpeg data-background-size=contain}
@@ -123,6 +141,8 @@ Maybe, if it's long enough.
 #
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcWPiHjIExA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Can you copyright a list?
+
 # {data-background=IP_images/Slide50.jpeg data-background-size=contain}
 # {data-background=IP_images/Slide51.jpeg data-background-size=contain}
 # {data-background=IP_images/Slide52.jpeg data-background-size=contain}
@@ -139,6 +159,11 @@ Maybe, if it's long enough.
 # {data-background=IP_images/Slide58.jpeg data-background-size=contain}
 # {data-background=IP_images/Slide59.jpeg data-background-size=contain}
 
+## Application and Extensions
+
+- What kind of IP protection can you obtain for a sculpture?
+- What about trade secrets?
+- I've heard of "trade dress" -- what's that all about?
 
 <!-- 'f' enable fullscreen mode -->
 
