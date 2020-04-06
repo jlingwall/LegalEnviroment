@@ -197,6 +197,15 @@ Where the seller at the time of contracting has reason to <em>know any particula
 - Hamburger in the pumpkin?
 </div>
 
+## Warranty disclaimers {data-background=blackdunes.png data-background-size=cover}
+
+Warranties can be disclaimed. Companies like to do this, for example, when they are worried about salespeople making promises not approved by management.
+
+For example, the implied warranty of merchantability can be disclaimed by selling goods <em>"as is"</em>.
+
+Warranty disclaimers should be prominent, or we worry about unconscionability!
+
+
 
 
 
