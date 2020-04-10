@@ -27,11 +27,25 @@ body em {
   font-weight: bold;
   color: #8B0000;
 }
+body h1 {
+  color: #00FF00;
+}
 </style>
 
 <!-- Background images -->
 <!-- {data-background=skyline.jpg data-background-size=cover} -->
 <!-- concrete.jpg mountains.jpg mountains2.jpg skyline.jpg roadmap.jpg -->
+
+<!-- Good section headers with white text -->
+<!-- # Text {data-background=sander-weeteling-4LiyQSlYD-4-unsplash.jpg data-background-size=cover} -->
+<!-- # Text {data-background=cristiane-teston-2iV9nqP4Y6A-unsplash.jpg data-background-size=cover} -->
+<!-- # Text {data-background=christopher-burns-QaGNhezu_5Q-unsplash.jpg data-background-size=cover} -->
+<!-- # Text {data-background=lobostudio-hamburg-RvQYmGfmsKo-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=ali-arif-soydas-3ICVaI2uzfE-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=ray-fragapane-PkKIVq1CUuY-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=jeremy-bishop-_nLiAdIotdg-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=richard-jacobs-8oenpCXktqQ-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=carlos-quintero-7mINv5udhe8-unsplash.jpg  data-background-size=cover} -->
 
 <!-- 'f' enable fullscreen mode -->
 <!-- 'w' toggle widescreen mode -->
@@ -51,8 +65,9 @@ In this chapter we will focus on the business entities that small businesses are
 
 ## Personal liability {data-background=mountains2.jpg data-background-size=cover}
 
+Unlimited personal liability means that the business owner's personal assets are at risk in litigation, <em>not only the assets used in the business</em>. This means the owner might lose their home, their vehicles, musical instruments, heirlooms, and so on, subject to bankruptcy proceedings. Avoiding personal liability is the main theme in how we present business forms. Other issues, such as taxation, will be of secondary importance.
 
-# Sole proprietorships
+# Sole Proprietorships {data-background=carlos-quintero-7mINv5udhe8-unsplash.jpg  data-background-size=cover}
 
 # {data-background=Paper.Journal.6.png data-background-size=cover}
 
@@ -61,45 +76,101 @@ In this chapter we will focus on the business entities that small businesses are
 # {data-background=Paper.Journal.8.png data-background-size=cover}
 
 
-# General partnerships
+# General partnerships {data-background=richard-jacobs-8oenpCXktqQ-unsplash.jpg  data-background-size=cover}
+
 
 # {data-background=Paper.Journal.9.png data-background-size=cover}
 
 
-## 
+## Managing a general partnership {data-background=mountains2.jpg data-background-size=cover}
 
-Partners are agents of each other and the partnership. Thus, partners owe each other a fiduciary duty.
+- These are default rules, which may be varied in the partnership agreement
+- Profits are split equally, no matter the investment in money or effort
+- Losses are split as profits
+- Minor decisions take a majority vote
+- Major decisions (like admitting a new partner) require a unanimous vote
 
-Meihnard v. Salmon
 
-## Practice
+## Duties in a partnership  {data-background=mountains2.jpg data-background-size=cover}
+
+Partners are agents of each other and the partnership. Thus ...
+
+- Partners owe each other a fiduciary duty: they must be loyal and avoid self-dealing
+	+ If a deal would benefit the partnership, they cannot secretly profit from it
+- Each partner may bind the partnership
+- Partners will be jointly and severally (each) liable
+
+## Practice {data-background=mountains2.jpg data-background-size=cover}
 
 What is a partnership’s liability for contracts entered into by its partners?
 
-# Limited partnerships
+# Limited partnerships {data-background=jeremy-bishop-_nLiAdIotdg-unsplash.jpg  data-background-size=cover}
 
 # {data-background=Paper.Journal.10.png data-background-size=cover}
 
 
-## Practice
+
+## Limited partnership details {data-background=mountains2.jpg data-background-size=cover}
+
+- The limited partner may lose their investment, but not more
+- General partners owe limited partners a fiduciary duty, but not vice-versa
+	+ So limited partner may, e.g., invest in a competing business
+- Limited partners have a say in major decisions, but if they start running the day-to-day, they will lose their liability shield
+- Limited partnership interests are considered "securities"
+
+
+## Practice {data-background=mountains2.jpg data-background-size=cover}
 
 In a limited partnership, what liability has the general partner? The limited partner?
 
-
-# Limited liability partnerships (LLPs) 	
+# Limited liability partnerships (LLPs) {data-background=ray-fragapane-PkKIVq1CUuY-unsplash.jpg  data-background-size=cover}
 
 # {data-background=Paper.Journal.11.png data-background-size=contain}
 
-# Limited liability companies (LLCs)
+
+## LLP details {data-background=mountains2.jpg data-background-size=cover}
+
+- The partner is liable for their own actions, and those they supervise
+- Limited to professionals like lawyers and accountants
+- Professionals may not limit their personal liability, as they owe an independent duty to their clients
+	- This is what malpractice insurance is for!
+
+
+# Limited liability companies (LLCs) {data-background=ali-arif-soydas-3ICVaI2uzfE-unsplash.jpg  data-background-size=cover}
 
 # {data-background=Paper.Journal.12.png data-background-size=contain}
 
 # {data-background=Paper.Journal.13.png data-background-size=contain}
 
-## Practice
+## LLC details  {data-background=mountains2.jpg data-background-size=cover}
+
+- The most common form for new businesses in the United States that desire a liability shield
+- Offers the liability shield of a corporation, taxed like a partnership (no double taxation)
+- Terminology:
+	- Owners are called "members" (not stockholders),
+	- with "membership interests" (not stock), and an
+	- "operating agreement" (not bylaws)
+- Requires filing a short form with the Secretary of State of your state, and paying a small fee
+- For diversity jurisdiction purposes, an LLC is counted a citizen of the states of its members 
+	+ A corporation is counted a citizen of its state of incorporation and the state of its nerve center
+
+## Other forms  {data-background=mountains2.jpg data-background-size=cover}
+
+- S-Corporation
+- "Joint ventures"
+- Series LLCs
+- International forms
+- Corporations (separate chapter)
+
+## You can mix and match!  {data-background=mountains2.jpg data-background-size=cover}
+
+Business entities may be formed of each other. An LLC may hold stock in a corporation. A corporation may be the limited partner in a limited partnership. Three LLCs may be the general partners. A corporation might be the sole member in a series of LLCs that hold assets of the corporation. (Holding assets in separate liability-shielded entities can prevent liability from one asset extending to another.) The law allows tremendous flexibility and creativity as businesses grow. 
+
+## Practice {data-background=mountains2.jpg data-background-size=cover}
 
 Why does the fact that the limited liability company provides limited liability for some of its members mean that a state certificate must be filed?
 
-## Practice
+## Practice {data-background=mountains2.jpg data-background-size=cover}
 
 Describe the difference between a sole proprietorship, a general partnership, a limited partnership, an LLP, and an LLC.
+
