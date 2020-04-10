@@ -699,3 +699,16 @@ mv thetop.html ../$mychapter
 rm thetop.html thebottom
 cd ../
 
+mychapter=s57-busorg.html
+head -26 $mychapter > ./temp/thetop.html
+tail -n 23 $mychapter > ./temp/thebottom
+cd temp
+for myfile in thebody_s57*; do
+	echo "Appending $myfile"
+	cat $myfile >> thetop.html
+done
+	cat thebottom >> thetop.html
+mv thetop.html ../$mychapter
+rm thetop.html thebottom
+cd ../
+

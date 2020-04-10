@@ -1,0 +1,23 @@
+slides > slide.title-slide {
+	background-image: url(j-zamora-GWOTvo3qq7U-unsplash.jpg);
+	background-size: 100% 100%;
+	color: white;
+}
+
+slides > slide.title-slide hgroup h1 { 
+	color: white;
+}
+
+slides > slide.title-slide hgroup h2 { 
+	color: white;
+}
+
+slides > slide.title-slide hgroup p { 
+	color: white;
+}
+
+slides > slide {
+  background-color: #F5F4F0; 
+  color: #F5F4F0; 
+}
+

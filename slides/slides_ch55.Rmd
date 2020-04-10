@@ -1,0 +1,105 @@
+---
+title: "Small Business Organizations"
+author: "Business Law: An Introduction, ch. 55"
+date: "v. 1.1.4"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    css: style2.css
+---
+
+
+<!-- Overall style -->
+
+<!-- Text color -->
+<style type="text/css">
+body p  {
+  color: #202020;
+}
+body ul {
+  color: #202020;
+}
+body ol {
+  color: #202020;
+}
+body em {
+  font-style: normal;
+  font-weight: bold;
+  color: #8B0000;
+}
+</style>
+
+<!-- Background images -->
+<!-- {data-background=skyline.jpg data-background-size=cover} -->
+<!-- concrete.jpg mountains.jpg mountains2.jpg skyline.jpg roadmap.jpg -->
+
+<!-- 'f' enable fullscreen mode -->
+<!-- 'w' toggle widescreen mode -->
+<!-- 'o' enable overview mode -->
+<!-- 'h' enable code highlight mode -->
+<!-- 'p' show presenter notes -->
+
+## Motivation {data-background=mountains2.jpg data-background-size=cover}
+
+One of the major decisions involved in starting and growing a business is how to legally structure the business entity. If one does nothing, then a sole proprietorship is created. This has great flexibility but unlimited personal liability. If one starts a business with another, but takes no legal steps, a general partnership has been created. Again, this offers unlimited personal liability. In contrast, creating a business entity like an LLC takes little effort and offers the owner protection against lawsuits.
+
+In this chapter, we will study many of the legal forms a business may take, with particular emphasis on the extent to which they protect their owners from liability.
+
+## Background {data-background=mountains2.jpg data-background-size=cover}
+
+In this chapter we will focus on the business entities that small businesses are likely to adopt, such as an LLC. This is not to say that every LLC is a small business! These may employ thousands of people and have billions in revenue. At the same time, it is more likely that small business owners will use these forms rather than a corporation, and so we will save corporations and securities regulation for another chapter.
+
+## Personal liability {data-background=mountains2.jpg data-background-size=cover}
+
+
+# Sole proprietorships
+
+# {data-background=Paper.Journal.6.png data-background-size=cover}
+
+# {data-background=Paper.Journal.7.png data-background-size=cover}
+
+# {data-background=Paper.Journal.8.png data-background-size=cover}
+
+
+# General partnerships
+
+# {data-background=Paper.Journal.9.png data-background-size=cover}
+
+
+## 
+
+Partners are agents of each other and the partnership. Thus, partners owe each other a fiduciary duty.
+
+Meihnard v. Salmon
+
+## Practice
+
+What is a partnership’s liability for contracts entered into by its partners?
+
+# Limited partnerships
+
+# {data-background=Paper.Journal.10.png data-background-size=cover}
+
+
+## Practice
+
+In a limited partnership, what liability has the general partner? The limited partner?
+
+
+# Limited liability partnerships (LLPs) 	
+
+# {data-background=Paper.Journal.11.png data-background-size=contain}
+
+# Limited liability companies (LLCs)
+
+# {data-background=Paper.Journal.12.png data-background-size=contain}
+
+# {data-background=Paper.Journal.13.png data-background-size=contain}
+
+## Practice
+
+Why does the fact that the limited liability company provides limited liability for some of its members mean that a state certificate must be filed?
+
+## Practice
+
+Describe the difference between a sole proprietorship, a general partnership, a limited partnership, an LLP, and an LLC.
