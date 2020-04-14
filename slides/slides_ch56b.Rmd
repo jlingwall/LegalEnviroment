@@ -1,0 +1,303 @@
+---
+title: "Securities Regulation"
+author: "Business Law: An Introduction, ch. 56"
+date: "v. 1.1.4"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    css: style1.css
+---
+
+
+<!-- Overall style -->
+
+<!-- Text color -->
+<style type="text/css">
+/*body p  {
+  color: #F8F8F8;
+}
+body ul {
+  color: #F8F8F8;
+}
+body ol {
+  color: #F8F8F8;
+}*/
+body em {
+  font-style: normal;
+  font-weight: bold;
+  color: #8B0000;
+}
+/*body h1 {
+  color: #F8F8F8;
+}
+body h2 {
+  color: #F8F8F8;
+}*/
+</style>
+
+<!-- Background images -->
+<!-- {data-background=skyline.jpg data-background-size=cover} -->
+<!-- concrete.jpg mountains.jpg mountains2.jpg mountains3.jpg skyline.jpg roadmap.jpg -->
+
+<!-- Good section headers with white text -->
+<!-- # Text {data-background=sander-weeteling-4LiyQSlYD-4-unsplash.jpg data-background-size=cover} -->
+<!-- # Text {data-background=cristiane-teston-2iV9nqP4Y6A-unsplash.jpg data-background-size=cover} -->
+<!-- # Text {data-background=christopher-burns-QaGNhezu_5Q-unsplash.jpg data-background-size=cover} -->
+<!-- # Text {data-background=lobostudio-hamburg-RvQYmGfmsKo-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=ali-arif-soydas-3ICVaI2uzfE-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=ray-fragapane-PkKIVq1CUuY-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=jeremy-bishop-_nLiAdIotdg-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=richard-jacobs-8oenpCXktqQ-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=carlos-quintero-7mINv5udhe8-unsplash.jpg  data-background-size=cover} -->
+<!-- # Text {data-background=city1.jpg  data-background-size=cover} -->
+<!--  -->
+
+<!-- 'f' enable fullscreen mode -->
+<!-- 'w' toggle widescreen mode -->
+<!-- 'o' enable overview mode -->
+<!-- 'h' enable code highlight mode -->
+<!-- 'p' show presenter notes -->
+
+
+## Overview {data-background=birds.jpg data-background-size=cover}
+
+In these slides, we will cover ...
+
+- The Securities Act of 1933
+- The Securities Exchange Act of 1934
+- Insider trading and SEC Rule 10b-5
+- Briefly, several other major laws related to corporate governance and securities
+    + FCPA
+    + Dodd-Frank
+    + Sarbanes-Oxley
+
+# Disclaimer: securities law is particularly intricate, ever-changing, and heavily enforced. Talk to an attorney for real-life questions!
+
+## What is a security?  {data-background=birds.jpg data-background-size=cover}
+
+<em>Basically, any type of investment contract is potentially a security and subject to regulation.</em>
+
+## What is a security?  {data-background=birds.jpg data-background-size=cover}
+
+<em>Basically, any type of investment contract is potentially a security and subject to regulation.</em>
+
+<p style="font-size:18px">
+Under Section 2(1) of the 1933 Act, “security” includes “any note, stock, treasury stock, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, or, in general, any interest or instrument commonly known as a ‘security,’ or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing.” </p>
+
+
+## What is a security?  {data-background=birds.jpg data-background-size=cover}
+
+<em>Basically, any type of investment contract is potentially a security and subject to regulation.</em>
+
+The Supreme Court created the <em>Howey test</em>. The Court said the test is whether “the person invests his money in a common enterprise and is led to expect profits solely from the efforts of the promoter or a third party.”
+
+E.g., managing an orange grove?
+
+Limited partnership interests? 
+
+
+## What is a security?  {data-background=birds.jpg data-background-size=cover}
+
+<em>Basically, any type of investment contract is potentially a security and subject to regulation.</em>
+
+The Supreme Court created the <em>Howey test</em>. The Court said the test is whether “the person invests his money in a common enterprise and is led to expect profits solely from the efforts of the promoter or a third party.”
+
+E.g., managing an orange grove? Yes!
+
+Limited partnership interests? Yes!
+
+# The Securities Act of 1933 {data-background=sander-weeteling-4LiyQSlYD-4-unsplash.jpg  data-background-size=cover}
+
+##  Basics {data-background=birds.jpg data-background-size=cover}
+
+ <em>Motivation</em>: Prevent another Great Depression
+
+ <em>Covers</em>: The initial issuance of securities
+
+ Before securities subject to the act can be offered to the public, the issuer must file a <em>registration statement</em> (a set of documents that a company must file with the SEC before it proceeds with an initial public offering) and <em>prospectus</em> (a document that provides details about an investment offering for sale to the public—the facts an investor needs to make an informed decision) with the SEC, laying out in detail relevant and material information about the offering as set forth in various schedules to the act.
+
+## Registration statements {data-background=birds.jpg data-background-size=cover}
+
+These are lengthy, expensive documents which list a number of factors relevant to the issuance:
+
+1. Risk factors
+2. Use of the proceeds
+3. Description of the securities
+4. Information about the registrant
+5. Financial statements
+6. Etc
+
+
+<a href="https://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/ds1.htm">Example: Google's IPO</a>
+
+##  Exemptions {data-background=birds.jpg data-background-size=cover}
+
+Because registration is costly, there are a number of exemptions. (There will still be filing requirements, just less burdensome ones.) Specifics are established by regulation
+
+1. Private offerings to a limited number of persons or institutions ...;
+2. offerings restricted to the residents of the state in which the issuing company is organized and doing business; 
+3. securities of municipal, state, federal and other government instrumentalities, ...;
+4. offerings not in excess of certain specified amounts ...: 
+
+Example: <a href="https://www.dropbox.com/s/e72q1cq76p62w4i/Facebook%20initial%20Regulation%20D%20offering.pdf?dl=0">Facebook's first stock sale</a>
+
+##  Penalties: public {data-background=birds.jpg data-background-size=cover}
+
+
+Section 24 of the Securities Act of 1933 provides for fines not to exceed $10,000 and a prison term not to exceed five years, or both, for willful violations of any provisions of the act. This section makes these criminal penalties specifically applicable to anyone who “willfully, in a registration statement filed under this title, makes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading.”
+
+
+##  Penalties: private {data-background=birds.jpg data-background-size=cover}
+
+If the registration statement contains "an untrue statement of material fact ... any person acquiring such security ... may ... sue":
+
+- Every person who signed the statement
+- Directors or partners
+- Named parties
+- Accountants and appraisers
+- Underwriters
+
+Note the low liability standard: <em>no scienter, negligence, or reliance is required. Due diligence is a defense, so do your diligence.</em>
+
+# The Securities Exchange Act of 1934 {data-background=lobostudio-hamburg-RvQYmGfmsKo-unsplash.jpg  data-background-size=cover}
+
+
+##  Basics {data-background=birds.jpg data-background-size=cover}
+
+The Securities Act of 1933 is limited, as we have just seen, to new securities issues—that is the primary market. The secondary market is far more significant, however. In a normal year, trading in outstanding stock totals some twenty times the value of new stock issues.
+
+To regulate the secondary market, Congress enacted the Securities Exchange Act of 1934 in order to protect the investing public. This act also established the SEC. This law, which created the SEC, extended the disclosure rationale to securities listed and registered for public trading on the national securities exchanges.
+
+
+##  Violating the 1934 Act {data-background=birds.jpg data-background-size=cover}
+
+To bring a private cause of action for securities fraud or mistatements:
+
+- Misrepresentation or omission
+- Materiality
+- <em>Reliance</em>
+- <em>Scienter</em>: actual intent or recklessness
+- Damages
+
+
+
+# The SEC {data-background=ali-arif-soydas-3ICVaI2uzfE-unsplash.jpg  data-background-size=cover}
+
+##  Basics {data-background=birds.jpg data-background-size=cover}
+The Securities and Exchange Commission was created in the Securities Act of 1934. It is an independent regulatory agency, subject to the rules of the Administrative Procedure Act. The commission is composed of five members, who have staggered five-year terms. Although the president cannot remove commissioners during their terms of office, he does have the power to designate the chairman from among the sitting members. The SEC is bipartisan: not more than three commissioners may be from the same political party.
+
+##  Role {data-background=birds.jpg data-background-size=cover}
+
+The SEC’s primary task is to investigate complaints or other possible violations of the law in securities transactions and to bring enforcement proceedings when it believes that violations have occurred. It is empowered to conduct information inquiries, interview witnesses, examine brokerage records, and review trading data. If its requests are refused, it can issue subpoenas and seek compliance in federal court.
+
+##  Role {data-background=birds.jpg data-background-size=cover}
+
+Among the violations the commission searches out are these: (1) unregistered sale of securities subject to the registration requirement of the Securities Act of 1933, (2) fraudulent acts and practices such as <em>insider trading</em>, (3) manipulation of market prices, (4) carrying out of a securities business while insolvent, (5) misappropriation of customers’ funds by brokers and dealers, and (4) other unfair dealings by brokers and dealers.
+
+
+## Rule 10b-5 {data-background=birds.jpg data-background-size=cover}
+
+It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce, or of the mails, or of any facility of any national securities exchange,
+
+(1) to employ any device, scheme, or artifice to defraud,
+
+(2) to make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the light of circumstances under which they were made, not misleading, or
+
+(3) to engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person, in connection with the purchase or sale of any security.
+
+## Rule 10b-5 {data-background=birds.jpg data-background-size=cover}
+
+Rule 10b-5 applies to any person who purchases or sells any security in interstate commerce. It is not limited to securities registered under the 1934 Securities Exchange Act. It is not limited to publicly held companies. It <em>applies to any security issued by any company</em>, including the smallest closely held company. In substance, it is an antifraud rule, enforcement of which seems, on its face, to be limited to action by the SEC. But over the years, the courts have permitted people injured by those who violate the statute to file private damage suits. This sweeping rule has at times been referred to as the “federal law of corporations” or the “catch everybody” rule.
+
+
+# Insider Trading {data-background=carlos-quintero-7mINv5udhe8-unsplash.jpg  data-background-size=cover}
+
+## Motivation {data-background=birds.jpg data-background-size=cover}
+
+Corporate insiders—directors, officers, or important shareholders—can have a substantial trading advantage if they are privy to important confidential information. Learning bad news (such as financial loss or cancellation of key contracts) in advance of all other stockholders will permit the privileged few to sell shares before the price falls. Conversely, discovering good news (a major oil find or unexpected profits) in advance gives the insider a decided incentive to purchase shares before the price rises.
+
+Trading on non-public information for a benefit breaches the fiduciary duty owed towards investors, is called "insider trading", and violates Rule 10b-5.
+
+# Example: Texas Gulf Sulphur
+
+## Tips {data-background=birds.jpg data-background-size=cover}
+
+If you are not an insider but act on a tip, you may also be charged with insider trading. The tipper breaches a fiduciary duty if they receive the slightest personal benefit from the disclosure. 
+
+U.S. v. Salman: brother-in-law who passed on information about Citigroup “intended as a gift” to a friend or relative is good enough. <em>Warm fuzzies = personal benefit = insider trading.</em>
+
+
+Together, insider trading regulations and court decisions represent a vast expansion of the provisions of the Securities Exchange Act of 1934.
+
+# {data-background=dirks1.png  data-background-size=contain}
+# {data-background=dirks2.png  data-background-size=contain}
+# {data-background=dirks3.png  data-background-size=contain}
+# {data-background=dirks4.png  data-background-size=contain}
+
+
+## Disclosure {data-background=birds.jpg data-background-size=cover}
+
+You don’t have to disclose everything--even if investors would like the information. If it is legally required, or if it stops another statement from being misleading you must disclose. Otherwise just be silent, and don’t trade on extraordinary news.
+
+
+## Short swing trading {data-background=birds.jpg data-background-size=cover}
+
+The Securities Exchange Act assumes that any director, officer, or shareholder owning 10 percent or more of the stock in a corporation is using inside information if he or any family member makes a profit from trading activities, either buying and selling or selling and buying, during a six-month period. Section 16(b) penalizes any such person by permitting the corporation or a shareholder suing on its behalf to recover the short-swing profits.
+
+Scienter is not required here. <em>Talk to an attorney before trading on your own company stock!</em>
+
+
+## Practice {data-background=birds.jpg data-background-size=cover}
+
+While waiting tables at a campus-area restaurant, you overhear a conversation between two corporate executives who indicate that their company has developed a new product that will revolutionize the computer industry. The product is to be announced in three weeks. If you purchase stock in the company before the announcement, will you be liable under federal securities law? Why?
+
+# Other laws impacting corporate finance {data-background=cristiane-teston-2iV9nqP4Y6A-unsplash.jpg data-background-size=cover}
+
+## FCPA {data-background=birds.jpg data-background-size=cover}
+
+Investigations by the Securities and Exchange Commission (SEC) in the early 1970s turned up evidence that hundreds of companies had misused corporate funds, mainly by bribing foreign officials to induce them to enter into contracts with or grant licenses to US companies. As a result, the Foreign Corrupt Practices Act (FCPA) of 1977, was incorporated into the 1934 Securities Exchange Act. The SEC’s legal interest in the matter is not premised on the morality of bribery but rather on the falsity of the financial statements that are being filed.
+
+## FCPA {data-background=birds.jpg data-background-size=cover}
+
+The FCPA prohibits an issuer (i.e., any US business enterprise), a stockholder acting on behalf of an issuer, and “any officer, director, employee, or agent” of an issuer from using either the mails or interstate commerce corruptly to <em>offer, pay, or promise to pay anything of value</em> to foreign officials, foreign political parties, or candidates if the purpose is to gain business by inducing the foreign official to influence an act of the government to render a decision favorable to the US corporation.
+
+## FCPA {data-background=birds.jpg data-background-size=cover}
+
+But <em>not all payments are illegal</em>. Under 1988 amendments to the FCPA, payments may be made to expedite routine governmental actions, such as obtaining a visa. And payments are allowed if they are lawful under the written law of a foreign country. More important than the foreign-bribe provisions, the act includes accounting provisions, which broaden considerably the authority of the SEC. 
+
+
+## Sarbanes-Oxley {data-background=birds.jpg data-background-size=cover}
+
+Congress enacted the Sarbanes-Oxley Act in 2002 in response to major corporate and accounting scandals, most notably those involving Enron, Tyco International, Adelphia, and WorldCom. The act created the Public Company Accounting Oversight Board, which oversees, inspects, and regulates accounting firms in their capacity as auditors of public companies. The act created <em>new rules for accountants and corporate recordkeeping</em>, as well as imposing new criminal penalties for securities laws.
+
+
+## Dodd-Frank {data-background=birds.jpg data-background-size=cover}
+
+In 2010, Congress passed the Dodd-Frank Wall Street Reform and Consumer Protection Act, which is the largest amendment to financial regulation in the United States since the Great Depression. It ...
+
+- Allows banks that pose systemic risk to be broken up
+- Created the Consumer Financial Protection Bureau
+- Limits the ways banks invest
+- Regulates derivatives
+- Created a program to reward whistleblowers
+
+Dodd-Frank created a substantial regulatory burden on companies.
+
+## Blue Sky Laws {data-background=birds.jpg data-background-size=cover}
+
+Long before congressional enactment of the securities laws in the 1930s, the states had legislated securities regulations. Today, every state has enacted a blue sky law, so called because its purpose is to prevent “speculative schemes which have no more basis than so many feet of ‘blue sky.’”
+
+
+## Blue Sky Laws {data-background=birds.jpg data-background-size=cover}
+
+Blue sky laws are divided into three basic types of regulation. 
+
+1. Prohibit fraud in the sale of securities; 
+2. Registration of broker-dealers;
+3. Registration of securities. 
+
+Some state laws <em>parallel the federal laws</em> in intent and form of proceeding, so that they overlap; other blue sky laws empower state officials (unlike the SEC) to judge the merits of the offerings, often referred to as merit review laws
+
+
+
+
