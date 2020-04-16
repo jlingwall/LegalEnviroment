@@ -1,0 +1,366 @@
+---
+title: "Employment Law"
+author: "Business Law: An Introduction, ch. 50"
+date: "v. 1.1.4"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    css: style1.css
+---
+
+
+<!-- Overall style -->
+
+<!-- Text color -->
+<style type="text/css">
+body p  {
+  color: #080808;
+  width: 750px;
+}
+body ul {
+  color: #080808;
+  /*color: #FBFCFC;*/
+   width: 740px;
+}
+body ol {
+  color: #080808;
+  /*color: #FBFCFC;*/
+   width: 750px;
+}
+body h2 {
+  color: #080808;
+  /*color: #FBFCFC;*/
+}
+body h1 {
+  color: #080808;
+  /*color: #FBFCFC;*/
+}
+body em {
+	color:#a148a1;
+	font-style: normal;
+	font-weight: bold;
+}
+</style>
+
+<!-- Background images -->
+<!-- concrete.jpg mountains.jpg skyline.jpg roadmap.jpg yellow.jpg-->
+<!-- If you use yellows, specify this under body p in the css notes:   width: 750px; -->
+<!-- {data-background=skyline.jpg data-background-size=cover} -->
+<!-- <div class="footer"><center>Footer text</center></div> -->
+
+## Motivation {data-background=yellow.jpg data-background-size=cover}
+
+- Most people will either have employees or be employed at some time in their lives.
+- Understanding the basics of employment law in the United States is empowering:
+	+ To <em>protect your legal rights</em> as an employee
+	+ To <em>avoid litigation</em> as an employer
+- Employment law brings together constitutional law, administrative law, contract, and tort
+
+
+## Roadmap {data-background=yellow.jpg data-background-size=cover}
+
+In these slides, we will cover ...
+
+- Employment at will
+- Several major federal employment laws (OSHA, FLSA, WARN, ERISA, Equal Pay Act)
+- Disparate treatment and disparate impact litigation under Title VII
+- Sexual harassment
+- Appearance-based restrictions at work
+- Age and disability discrimination
+
+# Employment at will
+
+## Basics {data-background=yellow.jpg data-background-size=cover}
+
+Can you be fired at any time, for any reason?
+
+
+## Basics {data-background=yellow.jpg data-background-size=cover}
+
+Can you be fired at any time, for any reason?
+
+- Absent a discriminatory reason for the firing, or a contract, absolutely.
+- This is <em>employment at will</em>
+- Pros and cons?
+
+## Wrongful discharge {data-background=yellow.jpg data-background-size=cover}
+
+Courts have created a major exception to the employment-at-will rule by allowing the <em>tort of wrongful discharge</em>. Wrongful discharge means firing a worker for a bad reason. What is a bad reason? A bad reason can be 
+
+(1) refusing to violate a law, 
+(2) for exercising a legal right, 
+(3) for performing a legal duty, and 
+(4) in a way that violates public policy.
+
+## Practice {data-background=yellow.jpg data-background-size=cover}
+
+
+ Richard Mudd, an employee of Compuserve, is called for jury duty in Wayne County, Michigan. His immediate supervisor, Harvey Lorie, lets him know that he “must” avoid jury duty at all costs. Mudd tells the judge of his circumstances and his need to be at work, but the judge refuses to let Mudd avoid jury duty. Mudd spends the next two weeks at trial. He sends regular e-mails and texts to Lorie during this time, but on the fourth day gets a text message from Lorie that says, “Don’t bother to come back.” When he does return, Lorie tells him he is fired. Does Mudd have a cause of action for the tort of wrongful discharge?
+
+# Major federal employment laws
+
+## OSHA {data-background=yellow.jpg data-background-size=cover}
+
+- Congress passed the Occupational Safety and Health Act in 1970 “to assure so far as possible every working man and woman in the Nation safe and healthful working conditions”
+- The act imposes on each employer a general duty to furnish a place of employment free from recognized hazards likely to cause death or serious physical harm to employees. 
+- It also gives the secretary of labor the power to establish national health and safety standards. 
+	- The standard-making power has been delegated to the Occupational Safety and Health Administration (OSHA), an agency within the US Department of Labor.
+
+
+## FLSA {data-background=yellow.jpg data-background-size=cover}
+
+- Fair Labor Standards Act of 1938 provides federal protection for wages
+- Enables federal minimum wage
+- Department of Labor regulates overtime pay
+	+ E.g., establishing earnings cutoffs for "white collar" exemption to overtime (managers, professionals, administrators)
+
+## WARN {data-background=yellow.jpg data-background-size=cover}
+
+- In 1988 in Congress enacted the Worker Adjustment and Retraining Notification (WARN) Act 
+- E.g., businesses with 100 or more employees must give employees at least <em>sixty days’ notice</em> whenever at least 50 employees in a single plant  would lose their jobs or face long-term layoffs or a reduction of more than half their working hours as the result of a shutdown 
+- An employer who violates the act is liable to employees for back pay that they would have received during the notice period and may be liable to other fines and penalties.
+
+## ERISA {data-background=yellow.jpg data-background-size=cover}
+
+- Congress, in 1974, enacted the Employee Retirement Income Security Act (ERISA).
+- Within five years of beginning employment, employees are entitled to vested interests in retirement benefits contributed on their behalf by individual employers. 
+- Multiemployer pension plans must vest their employees’ interests within ten years. 
+- A variety of pension plans must be insured through a federal agency, the Pension Benefit Guaranty Corporation, to which employers must pay annual premiums.
+
+
+## Equal Pay Act {data-background=yellow.jpg data-background-size=cover}
+
+- The Equal Pay Act of 1963 protects both men and women from pay discrimination based on sex. 
+- The act covers all levels of private sector employees and state and local government employees but not federal workers. 
+- The act prohibits disparity in pay for jobs that require equal skill and equal effort.
+-  There are four criteria that can be used as defenses in justifying differentials in wages: seniority, merit, quantity or quality of product, and any factor other than sex. 
+
+# Employment discrimination under Title VII
+
+## Protected attributes {data-background=yellow.jpg data-background-size=cover}
+
+Title VII of the Civil Rights Act of 1964 prohibits employment discrimination on the basis of:
+
+- Race
+- Color
+- National origin
+- Religion
+- Sex (including pregnancy)
+- Sexual orientation? (law is not settled)
+
+## Application {data-background=yellow.jpg data-background-size=cover}
+
+Title VII applies to
+
+- employers with <em>fifteen or more employees</em> whose business affects interstate commerce, 
+- all employment agencies, 
+- labor unions with fifteen or more members, 
+- state and local governments and their agencies, and 
+- most federal government employment
+
+## Regulation {data-background=yellow.jpg data-background-size=cover}
+
+Title VII established the <em>Equal Employment Opportunity Commission</em> (EEOC) to investigate violations of the act. A victim of discrimination who wishes to file suit must first file a complaint with the EEOC to permit that agency to attempt conciliation of the dispute. 
+
+There are two types of claims: disparate treatment (intentional discrimination) and disparate impact (unintentional discrimination). We will cover disparate treatment first.
+
+## Burden shifting {data-background=yellow.jpg data-background-size=cover}
+
+Who must prove what, and when
+
+- For example, in tort the plaintiff's burden is to make a prima facie case
+- It then becomes the defendant's burden to show valid defense
+	+ E.g. consent
+
+## Burden shifting {data-background=yellow.jpg data-background-size=cover}
+
+- Discrimination law is all about <em>burden shifting</em>.
+	+ Plaintiff shows protected class, adverse action
+	+ Defendant shows legitimate reason
+	+ Plaintiff must then show pretext
+
+## Burden shifting framework for hiring {data-background=yellow.jpg data-background-size=cover}
+
+<em>Plaintiff's</em> initial burden:
+
+- Member of protected class
+- Was qualified and applied
+- Rejected
+- Position filled by someone not a member of the class
+
+## Burden shifting framework for hiring {data-background=yellow.jpg data-background-size=cover}
+
+Burden then shifts to <em>employer</em> to show a legitimate reason for the action, e.g.:
+
+- Business necessity
+- Genuine educational qualifications
+- Bona fide occupational qualification
+	+ E.g., women's clothing store
+
+
+
+## Burden shifting framework for hiring {data-background=yellow.jpg data-background-size=cover}
+
+Burden then shifts to <em>employer</em> to show a legitimate reason for the action, e.g.:
+
+- Business necessity
+- Genuine educational qualifications
+- Bona fide occupational qualification
+	+ E.g., women's clothing store
+
+Burden then shifts to <em>plaintiff</em> to show the employer's argument is <em>pretextual</em>
+
+#
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJzMUqXrQrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Burden shifting framework for firing {data-background=yellow.jpg data-background-size=cover}
+
+- <a href="https://law.justia.com/cases/federal/appellate-courts/ca5/12-30477/12-30477-2013-01-02.html">Dees v. United Rentals</a>
+- Plaintiff filed his complaint in this action on March 9, 2011, alleging employment  discrimination on the basis of race ....
+- Plaintiff is an African-American male who was sixty-two (62) years old at the time that he was terminated by Defendant.
+- [Dees received a "right to sue" notice from the EEOC]
+- In his complaint, Plaintiff alleges ... that he was replaced by a white male ....
+
+## Burden shifting framework for firing {data-background=yellow.jpg data-background-size=cover}
+
+To establish a prima facie case of employment discrimination under Title VII, the plaintiff must allege:
+
+(1) membership in a protected group,
+(2) qualification for the position in question,
+(3) an adverse employment action, and
+(4) circumstances that support an inference of discrimination.
+
+## Burden shifting framework for firing {data-background=yellow.jpg data-background-size=cover}
+
+Under both Title VII and the ADEA, once the plaintiff establishes its prima facie case, the burden shifts to the defendant to provide a legitimate, nondiscriminatory reason for the adverse employment action.
+
+
+Here, Defendant has provided ample evidence to support its claim that Plaintiff was terminated for unsatisfactory job performance. [E.g., marking equipment as fit to be rented when it was not in working order.] Defendant points to repeated warnings given to Plaintiff, both verbal and written, culminating in a final written warning that informed Plaintiff that an additional incident would result in discharge. 
+
+## Burden shifting framework for firing {data-background=yellow.jpg data-background-size=cover}
+
+
+Once the employer has offered a legitimate, nondiscriminatory reason for the adverse action, the burden shifts back to the plaintiff. Under Title VII, the plaintiff must produce evidence that the employer's stated reason is merely pretext to cover up unlawful discrimination.
+
+Plaintiff does not provide evidence of discriminatory conduct, nor does he even allege, other than in conclusory fashion, that discriminatory  conduct occurred; therefore, Plaintiff provides no evidence that Defendant's explanation was pretext or that discrimination was a motive for discharge.
+
+# <a href="https://web.archive.org/web/20200416180058/https://www.npr.org/2012/10/16/162992776/a-judge-dismisses-the-bachelor-discrimination-lawsuit-but-not-its-concerns">The Bachelor?</a>
+
+## Disparate impact {data-background=yellow.jpg data-background-size=cover}
+
+- Disparate impact claims are for unintentional discrimination, such as from a pre-employment test that results in discriminatory outcomes
+- We use a similar burden shifting framework, with the prima facie case brought based on <em>statistical evidence</em>
+	+ E.g., the 80% rule
+- The employer then shows a legitimate reason for the test
+- The plaintiff must then show there is a less discriminatory alternate test
+
+# Example: our post-class consulting firm
+
+## Example: Jones v. City of Boston {data-background=yellow.jpg data-background-size=cover}
+
+In this racial discrimination case, ten black plaintiffs challenge the Boston Police Department's drug testing program. Seven of the plaintiffs are former officers fired by the department after testing positive for cocaine .... During the eight years for which the plaintiffs present data, black officers and cadets tested positive for cocaine approximately 1.3% of the time, while white officers and cadets tested positive just under 0.3% of the time. 
+
+## Example: Jones v. City of Boston {data-background=yellow.jpg data-background-size=cover}
+
+The plaintiffs have proven beyond reasonable dispute a prima facie case of disparate impact under Title VII, while the department has proffered an uncontested legitimate need to identify those few of its members who use illegal drugs. What remains to be assessed by the district court is whether the department's drug testing program advances that goal and, if so, <em>whether the plaintiffs can carry their burden of proving a failure to adopt an available alternative </em>that meets the department's legitimate needs while reducing the disparate impact on black employees of the department.
+
+
+## Religious accommodation {data-background=yellow.jpg data-background-size=cover}
+
+Title VII defines religion as including religious observances and practices as well as belief and requires the employer to “reasonably accommodate to an employee’s or prospective employee’s religious observance or practice” unless the employer can demonstrate that a reasonable accommodation would work an “undue hardship on the conduct of the employer’s business.” 
+
+Example: <a href="https://www.supremecourt.gov/opinions/14pdf/14-86_p86b.pdf">Samantha Elauf v. Abercrombie & Fitch</a>
+
+## Practice {data-background=yellow.jpg data-background-size=cover}
+
+
+ Greg Connolly is a member of the Church of God and believes that premarital sex and abortion are sinful. He works as a pharmacist for Wal-Mart, and at many times during the week, he is the only pharmacist available to fill prescriptions. One product sold at his Wal-Mart is the morning-after pill (RU 468). Based on his religious beliefs, he tells his employer that he will refuse to fill prescriptions for the morning-after pill. Must Wal-Mart make a reasonable accommodation to his religious beliefs?
+
+## Sexual harassment {data-background=yellow.jpg data-background-size=cover}
+
+Sexual harassment involves unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature.
+
+There are two major categories of sexual harassment: 
+
+(1) <em>quid pro quo </em>
+	+ If any part of a job is made conditional on sexual activity, there is quid pro quo sexual harassment. Here, one person’s power over another is essential.
+(2) <em>hostile work environment</em>
+	+ An employee has a valid claim of sexual harassment if sexual talk, imagery, or behavior becomes so pervasive that it interferes with the employee’s ability to work to her best capacity. 
+
+
+## Practice {data-background=yellow.jpg data-background-size=cover}
+
+ Olga Monge was a schoolteacher in her native Costa Rica. She moved to New Hampshire and attended college in the evenings to earn US teaching credentials. At night, she worked at the Beebe Rubber Company after caring for her husband and three children during the day. When she applied for a better job at the plant, the foreman offered to promote her if she would be “nice” and go out on a date with him. She refused, and he assigned her to a lower-wage job, took away her overtime, made her clean the washrooms, and generally ridiculed her. She finally collapsed at work, and he fired her. Does Monge have any cause of action?
+
+## Appearance at work  {data-background=yellow.jpg data-background-size=cover}
+
+- Appearance-based restrictions can be the basis of a Title VII complaint
+- 444 F.3d 1104: Female bartender fired for not wearing makeup. Business policy required women wear makeup, but not men
+
+## Appearance at work  {data-background=yellow.jpg data-background-size=cover}
+
+- Appearance-based restrictions can be the basis of a Title VII complaint
+- 444 F.3d 1104: Female bartender fired for not wearing makeup. Business policy required women wear makeup, but not men
+- Motivation was <em>"a professional look"</em>, not a sex stereotype
+
+## Appearance at work  {data-background=yellow.jpg data-background-size=cover}
+
+- Appearance-based restrictions can be the basis of a Title VII complaint
+- 444 F.3d 1104: Female bartender fired for not wearing makeup. Business policy required women wear makeup, but not men
+- Motivation was <em>"a professional look"</em>, not a sex stereotype
+- Contrast this with 692 F.2d 602! Continental Airlines had body weight policy for women, but not for men. The justification of "attractive female cabin attendants" was discriminatory.
+
+
+## Appearance at work  {data-background=yellow.jpg data-background-size=cover}
+
+- Male employees wear ties?
+	- Not "overly burdensome." 555 F.2d 753.
+- Male hair restrictions?
+	+ Not discriminatory because "does not significantly affect employment opportunities." (Haircuts are cheap, and hair is easily altered.) 488 F.2d 1333
+- Key to appearance restrictions is <em>whether they are reasonable</em>
+
+
+
+# Age and disability discrimination
+
+## ADEA  {data-background=yellow.jpg data-background-size=cover}
+
+- The Age Discrimination in Employment Act (ADEA) of 1967 (amended in 1978 and again in 1986) prohibits discrimination based on age
+- The act protects workers over <em>forty years of age</em> and prohibits forced retirement in most jobs because of age. 
+- Similar, but harder to prove than a Title VII claim
+
+
+## ADA  {data-background=yellow.jpg data-background-size=cover}
+
+- The 1990 Americans with Disabilities Act (ADA) prohibits employers from discriminating on the basis of disability. 
+- A disabled person is someone with a physical or mental impairment that substantially limits a major life activity or someone who is regarded as having such an impairment. 
+- Employers cannot disqualify an employee or job applicant because of disability as long as he or she can perform the essential functions of the job, with <em>reasonable accommodation</em>. 
+	- Reasonable accommodation might include installing ramps for a wheelchair, establishing more flexible working hours, creating or modifying job assignments, and the like.
+- Reasonable accommodation means that there is <em>no undue hardship</em> for the employer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
