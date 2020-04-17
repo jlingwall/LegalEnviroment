@@ -7,7 +7,25 @@ output:
     widescreen: true
     css: style1.css
 ---
-
+<style type="text/css">
+body p  {
+  color: #202020;
+}
+body ul {
+  color: #202020;
+}
+body ol {
+  color: #202020;
+}
+body em {
+  font-style: normal;
+  font-weight: bold;
+  color: #8B0000;
+}
+body h1 {
+  color: #00FF00;
+}
+</style>
 
 ## Law and the Lemonade Stand {data-background=markus-spiske-s05XKB6jK2c-unsplash.jpg data-background-size=cover}
 
@@ -17,23 +35,23 @@ output:
 
 # What is "law"? 
 
-## Should the law do something here?
+## Should the law do something here? {data-background=mountains2.jpg data-background-size=cover}
 Lindsey Paradise is not selected for her sorority of choice at the University of Kansas. She has spent all her time rushing that particular sorority, which chooses some of her friends but not her. She is disappointed and angry and wants to sue the sorority. What are her prospects of recovery in the legal system? 
 
-## Should the law do something here?
+## Should the law do something here? {data-background=mountains2.jpg data-background-size=cover}
 In 2015, many boxing fans paid a substantial sum to view the "Fight of the Century" between Floyd Mayweather Jr. and Manny Pacquiao. The fight turned out to be a snoozer, perhaps because Pacquiao had an undisclosed injury. Many people were upset and decided to sue. Should the court order a refund because the fight was not as good as expected?
 
-## Should the law do something here?
+## Should the law do something here? {data-background=mountains2.jpg data-background-size=cover}
 "Trade dress" is an intellectual property term describing the appearance of a product, identifying its source. The US Patent and Trademark Office registered as trade dress to Al Johnson's Swedish Restaurant the image of goats on a roof. An attorney unrelated to the restaurant challenged this grant, alleging it is "demeaning to" goats and "denigrates the value he ... places on the respect, dignity, and worth of animals.” Should the attorney be allowed to bring this lawsuit? If not, who will speak for the goats?
 
 <center><img src="goats_on_a_roof.jpeg" height="300"></center>
 
-## Schools of legal thought, briefly
+## Schools of legal thought, briefly {data-background=mountains2.jpg data-background-size=cover}
 
-- Legal positivism: law is what the sovereign commands
-- Natural law: find universal moral order
-- Legal realists: law depends on judges whims, social context, etc
-- Critical legal studies: law flows from power, law is politics
+- <em>Legal positivism</em>: law is what the sovereign commands
+- <em>Natural law</em>: find universal moral order
+- <em>Legal realists</em>: law depends on judges whims, social context, etc
+- <em>Critical legal studies</em>: law flows from power, law is politics
 
 Practice on next slides: which school of legal thought is represented?
 
@@ -45,13 +63,13 @@ Practice on next slides: which school of legal thought is represented?
 
 # Benjamin Franklin said "Laws too gentle are seldom obeyed; to severe, seldom executed"
 
-## Legal reasoning in a nutshell 
-- What is the Issue?
-- What is the Rule?
-- What is your Analysis? (Apply the facts to the Rule.)
-- What is your Conclusion?
+## Legal reasoning in a nutshell  {data-background=mountains2.jpg data-background-size=cover}
+- What is the <em>Issue</em>?
+- What is the <em>Rule</em>?
+- What is your <em>Analysis</em>? (Apply the facts to the Rule)
+- What is your <em>Conclusion</em>?
 
-## IRAC practice 
+## IRAC practice {data-background=mountains2.jpg data-background-size=cover}
 
 <center><img src="peter-secan-kKXBw9Exn30-unsplash.jpg" height="400px" />
 
@@ -61,7 +79,7 @@ Is a hot dog a sandwich?
 
 
 
-## IRAC practice 
+## IRAC practice {data-background=mountains2.jpg data-background-size=cover}
 
 <center><img src="peter-secan-kKXBw9Exn30-unsplash.jpg" height="400px" />
 
@@ -90,15 +108,15 @@ We need a rule. [The Cube Rule will do.](https://web.archive.org/web/20200206220
 
 # How to Read a Court Case: <br /> <a href="https://jlingwall.github.io/LegalEnvironment/s04-06-a-sample-case.html">Harris v. Forklift Systems</a>
 
-# Further excercises: <br /> <a href="../s04-07-summary-and-exercises.html">Should time permit </a>
-
-## Class Procedure
+<!-- # Further excercises: <br /> <a href="../s04-07-summary-and-exercises.html">Should time permit </a>
+ -->
+<!-- ## Class Procedure
 
 Now that substance is done
 
 - Syllabus
 - Pictures with names
-- Extra credit
+- Extra credit -->
 
 
 <!-- 'f' enable fullscreen mode -->
