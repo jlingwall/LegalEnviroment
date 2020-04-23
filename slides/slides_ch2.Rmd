@@ -8,9 +8,16 @@ output:
     css: style1.css
 ---
 
+<!-- Text color -->
+<style type="text/css">
+body em {
+    color:#a148a1;
+    font-style: normal;
+    font-weight: bold;
+}
+</style>
 
-
-## Ethics is not the law
+## Ethics is <em>not</em> the law {data-background=background_white_snow.jpg data-background-size=cover}
 
 - Slavery, for years
 - Slack fill
@@ -51,13 +58,13 @@ Definition of good, first?
 </ul>
 </span>
 
-## Would it be easier to just follow a set of rules?
-- This is _deontology_
+## Would it be easier to just follow a set of rules?  {data-background=background_white_snow.jpg data-background-size=cover}
+- This is <em>deontology</em>
 - We may follow rules from religion, or principles of rights, or philosophy
     - E.g., Kant's "categorical imperative"
   
-## Would it be easier to just follow a set of rules?
-- This is _deontology_
+## Would it be easier to just follow a set of rules?  {data-background=background_white_snow.jpg data-background-size=cover}
+- This is <em>deontology</em>
 - We may follow rules from religion, or principles of rights, or philosophy
     - E.g., Kant's "categorical imperative"
 - But this has it's own set of of problems:
@@ -67,8 +74,8 @@ Definition of good, first?
         - E.g., is choosing not have children unethical by the categorical imperative?
 
 
-## Would it be easier to just follow a set of rules?
-- This is _deontology_
+## Would it be easier to just follow a set of rules?  {data-background=background_white_snow.jpg data-background-size=cover}
+- This is <em>deontology</em>
 - We may follow rules from religion, or principles of rights, or philosophy
     - E.g., Kant's "categorical imperative"
 - But this has it's own set of of problems:
@@ -76,7 +83,7 @@ Definition of good, first?
     - What if they don't cover a situation?
     - What if the rules lead to strange results?
         - E.g., is choosing not have children unethical by the categorical imperative?
-- Should we consider "virtue" alone?
+- Should we consider <em>"virtue"</em> alone?
     - Which virtues?
     - What if they conflict? E.g., liberty and equality?
 
@@ -86,22 +93,22 @@ Definition of good, first?
 
 # How does <br /> this  apply <br /> to companies? {data-background=sean-pollock-PhYq704ffdA-unsplash.jpg data-background-size=cover}
 
-## Stakeholder analysis
+## Stakeholder analysis  {data-background=background_white_snow.jpg data-background-size=cover}
 - Identify the stakeholders: potential gainers and losers
 - For a corporation, we need to consider
 
 <center><img src="corporate_structure.jpg" height="400px" /> </center>
 
 
-## Corporate Social Responsibility
-Corporate Social Responsibility (CSR) says companies should consider the needs of all stakeholders (employees, community, customers, environment, etc), rather than just attempting to maximize shareholder profit
+## Corporate Social Responsibility  {data-background=background_white_snow.jpg data-background-size=cover}
+Corporate Social Responsibility (CSR) says companies should consider the needs of all <em>stakeholders</em> (employees, community, customers, environment, etc), rather than just attempting to maximize shareholder profit
 
 - Can corporations legally do this?
 - Is it in their long-term, strategic interest?
 - What about <a href="https://www.kingarthurflour.com/about/mission-impact">"benefit corporations"</a>?
 - Or <a href="https://bcorporation.net/">"certified B-Corps"</a>?
 
-## Practice
+## Practice  {data-background=background_white_snow.jpg data-background-size=cover}
 > - On a sheet of paper, list your favorite brand
 > - What do you know about their CSR practices?
 > - What can you find out in five minutes?
