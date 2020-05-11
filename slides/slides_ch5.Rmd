@@ -1,11 +1,11 @@
 ---
 title: "Administrative Law"
 author: "Business Law: An Introduction, ch. 5"
-date: "v. 1.1.4"
+date: "v. 1.2.0"
 output: 
   ioslides_presentation:
     widescreen: true
-    css: style1.css
+    css: style05.css
 ---
 <style type="text/css">
 body p  {
