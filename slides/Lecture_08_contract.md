@@ -28,5 +28,5 @@ The slides are [here](https://jlingwall.github.io/LegalEnvironment/slides/buslaw
 
 [Hinkal v. Pardoe (the Gold's Gym case)](https://web.archive.org/web/20180310113238/http://caselaw.findlaw.com/pa-superior-court/1723746.html)
 
-[School of Rock trailer](https://youtu.be/3PsUJFEBC74)
+[School of Rock trailer](https://youtu.be/3PsUJFEBC74) 
 
