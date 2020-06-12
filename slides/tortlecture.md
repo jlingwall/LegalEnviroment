@@ -8,7 +8,7 @@ Due to the number of clips to watch, I created a separate page for this lecture.
 
 **Clips** 
 
-Yes, there are a few to watch. Most are quite short (literally seconds).
+Yes, there are a few to watch. Most are quite short (some literally seconds).
 
 For the longer clips, you'll get the idea from the beginning and end. 
 
