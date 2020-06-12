@@ -1,0 +1,18 @@
+slides > slide.title-slide {
+	background-image: url(forest.jpg);
+	background-size: 100% 100%;
+	color: #922B21;
+}
+
+slides > slide.title-slide hgroup h1 { 
+	color: #283747 ;
+}
+
+slides > slide.title-slide hgroup h2 { 
+	color: #283747 ;
+}
+
+slides > slide.title-slide hgroup p { 
+	color: #283747 ;
+}
+
