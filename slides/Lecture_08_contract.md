@@ -8,9 +8,15 @@ The slides are [here](https://jlingwall.github.io/LegalEnvironment/slides/buslaw
 
 **Clips** 
 
+<p></p>
 <iframe width="300" src="https://www.youtube.com/embed/FqCsA6LV3dA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p></p>
+
 <iframe width="300" src="https://www.youtube.com/embed/U_n5SNrMaL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p>
+
 
 ## Lecture part 2: Consideration and Capacity
 
