@@ -1,6 +1,6 @@
 # Tort Law Lecture
 
-Due to the number of clips to watch, I created a separate page for this lecture.
+Due to the number of clips to watch, I created a separate page for this lecture. The slides are [here](https://jlingwall.github.io/LegalEnvironment/slides/buslaw_slides_ch07_torts.html#1)
 
 ## Lecture part 1: Intentional Torts
 
