@@ -1,4 +1,4 @@
-# Tort Law Lecture, Chapter 07
+# Chapter 7 Lecture, Tort Law
 
 The slides are [here](https://jlingwall.github.io/LegalEnvironment/slides/buslaw_slides_ch07_torts.html#1).
 

@@ -1,4 +1,4 @@
-# Contract Law Lecture
+# Chapter 8 Lecture, Contract Law Lecture
 
 The slides are [here](https://jlingwall.github.io/LegalEnvironment/slides/buslaw_slides_ch08_contracts.html#1).
 
