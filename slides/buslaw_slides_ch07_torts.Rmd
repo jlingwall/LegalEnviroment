@@ -133,7 +133,7 @@ _Assault_ is ...
 # 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xRlRAyulN4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# How much is <a href="https://www.theatlantic.com/politics/archive/2016/02/scapegoats-in-the-culture-war/462918/">too much?</a>
+# How much is <a href="https://web.archive.org/web/20200612193743/https://www.theatlantic.com/politics/archive/2016/02/scapegoats-in-the-culture-war/462918/">too much?</a>
 
 ## Other intentional torts? {data-background=green.jpg data-background-size=cover}
 
