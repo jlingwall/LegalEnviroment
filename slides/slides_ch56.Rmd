@@ -75,7 +75,7 @@ Understanding how corporations work is essential for understanding the legal env
 # {data-background=corphist/slide8.jpeg  data-background-size=contain}
 
 
-# Forming a corporation {data-background=city1.jpg  data-background-size=cover} 
+# Forming a corporation {data-background=city1.jpg  data-background-size=cover}
 
 ## Initial formation {data-background=birds.jpg data-background-size=cover}
 

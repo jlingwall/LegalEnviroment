@@ -156,21 +156,29 @@ In a limited partnership, what liability has the general partner? The limited pa
 
 ## Other forms  {data-background=mountains2.jpg data-background-size=cover}
 
-- S-Corporation
+- S-Corporation (pass through taxation with structure of corporation, limited shareholders)
 - "Joint ventures"
 - Series LLCs
 - International forms
 - Corporations (separate chapter)
 
-## You can mix and match!  {data-background=mountains2.jpg data-background-size=cover}
+## You can mix and match!
 
 Business entities may be formed of each other. An LLC may hold stock in a corporation. A corporation may be the limited partner in a limited partnership. Three LLCs may be the general partners. A corporation might be the sole member in a series of LLCs that hold assets of the corporation. (Holding assets in separate liability-shielded entities can prevent liability from one asset extending to another.) The law allows tremendous flexibility and creativity as businesses grow. 
 
-## Practice {data-background=mountains2.jpg data-background-size=cover}
 
-Why does the fact that the limited liability company provides limited liability for some of its members mean that a state certificate must be filed?
 
-## Practice {data-background=mountains2.jpg data-background-size=cover}
+# Corporations
 
-Describe the difference between a sole proprietorship, a general partnership, a limited partnership, an LLP, and an LLC.
+We split these off because .... \vspace{.5in}
+
+
+
+
+
+
+
+
+
+
 

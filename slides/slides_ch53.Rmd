@@ -95,7 +95,7 @@ It is based on <em>voluntary</em> obligations, whereas tort law was <em>involunt
 #
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U_n5SNrMaL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# <a href="https://jlingwall.github.io/LegalEnvironment/s56-05-cases.html">Lucy v. Zehmer</a> 
+# <a href="https://jlingwall.github.io/LegalEnvironment/s56-05-cases.html">Lucy v. Zehmer</a>
 
 
 # <a href="https://web.archive.org/web/20180310113238/http://caselaw.findlaw.com/pa-superior-court/1723746.html">Hinkal v. Pardoe</a>
@@ -202,9 +202,9 @@ Capacity to contract?
 4. Contracts to <em>pay another's debt</em>; and
 5. Under the UCC, contracts for <em>sale of goods for at least $500</em> (and lease of goods of at least $1,000).
 
-# <a href="https://www.dropbox.com/s/gbh9wbaaqy181s4/Contract%20Law%20Discussion%20Question-%20Football.pdf?dl=0">Practice</a> 
+# <a href="https://www.dropbox.com/s/gbh9wbaaqy181s4/Contract%20Law%20Discussion%20Question-%20Football.pdf?dl=0">Practice</a>
 
-# 2. How might you get out of a contract? 
+# 2. How might you get out of a contract?
 
 ## <span style="color:#1C2833"> How to get out of a contract</span> {data-background=roadmap.jpg data-background-size=cover}
 

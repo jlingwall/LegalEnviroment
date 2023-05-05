@@ -108,7 +108,7 @@ Limited partnership interests? Yes!
 
 # The Securities Act of 1933 {data-background=sander-weeteling-4LiyQSlYD-4-unsplash.jpg  data-background-size=cover}
 
-##  Basics {data-background=birds.jpg data-background-size=cover}
+## Basics {data-background=birds.jpg data-background-size=cover}
 
  <em>Motivation</em>: Prevent another Great Depression
 
@@ -130,7 +130,7 @@ These are lengthy, expensive documents which list a number of factors relevant t
 
 <a href="https://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/ds1.htm">Example: Google's IPO</a>
 
-##  Exemptions {data-background=birds.jpg data-background-size=cover}
+## Exemptions {data-background=birds.jpg data-background-size=cover}
 
 Because registration is costly, there are a number of exemptions. (There will still be filing requirements, just less burdensome ones.) Specifics are established by regulation
 
@@ -141,13 +141,13 @@ Because registration is costly, there are a number of exemptions. (There will st
 
 Example: <a href="https://www.dropbox.com/s/e72q1cq76p62w4i/Facebook%20initial%20Regulation%20D%20offering.pdf?dl=0">Facebook's first stock sale</a>
 
-##  Penalties: public {data-background=birds.jpg data-background-size=cover}
+## Penalties: public {data-background=birds.jpg data-background-size=cover}
 
 
 Section 24 of the Securities Act of 1933 provides for fines not to exceed $10,000 and a prison term not to exceed five years, or both, for willful violations of any provisions of the act. This section makes these criminal penalties specifically applicable to anyone who “willfully, in a registration statement filed under this title, makes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading.”
 
 
-##  Penalties: private {data-background=birds.jpg data-background-size=cover}
+## Penalties: private {data-background=birds.jpg data-background-size=cover}
 
 If the registration statement contains "an untrue statement of material fact ... any person acquiring such security ... may ... sue":
 
@@ -162,14 +162,14 @@ Note the low liability standard: <em>no scienter, negligence, or reliance is req
 # The Securities Exchange Act of 1934 {data-background=lobostudio-hamburg-RvQYmGfmsKo-unsplash.jpg  data-background-size=cover}
 
 
-##  Basics {data-background=birds.jpg data-background-size=cover}
+## Basics {data-background=birds.jpg data-background-size=cover}
 
 The Securities Act of 1933 is limited, as we have just seen, to new securities issues—that is the primary market. The secondary market is far more significant, however. In a normal year, trading in outstanding stock totals some twenty times the value of new stock issues.
 
 To regulate the secondary market, Congress enacted the Securities Exchange Act of 1934 in order to protect the investing public. This act also established the SEC. This law, which created the SEC, extended the disclosure rationale to securities listed and registered for public trading on the national securities exchanges.
 
 
-##  Violating the 1934 Act {data-background=birds.jpg data-background-size=cover}
+## Violating the 1934 Act {data-background=birds.jpg data-background-size=cover}
 
 To bring a private cause of action for securities fraud or mistatements:
 
@@ -183,14 +183,14 @@ To bring a private cause of action for securities fraud or mistatements:
 
 # The SEC {data-background=ali-arif-soydas-3ICVaI2uzfE-unsplash.jpg  data-background-size=cover}
 
-##  Basics {data-background=birds.jpg data-background-size=cover}
+## Basics {data-background=birds.jpg data-background-size=cover}
 The Securities and Exchange Commission was created in the Securities Act of 1934. It is an independent regulatory agency, subject to the rules of the Administrative Procedure Act. The commission is composed of five members, who have staggered five-year terms. Although the president cannot remove commissioners during their terms of office, he does have the power to designate the chairman from among the sitting members. The SEC is bipartisan: not more than three commissioners may be from the same political party.
 
-##  Role {data-background=birds.jpg data-background-size=cover}
+## Role {data-background=birds.jpg data-background-size=cover}
 
 The SEC’s primary task is to investigate complaints or other possible violations of the law in securities transactions and to bring enforcement proceedings when it believes that violations have occurred. It is empowered to conduct information inquiries, interview witnesses, examine brokerage records, and review trading data. If its requests are refused, it can issue subpoenas and seek compliance in federal court.
 
-##  Role {data-background=birds.jpg data-background-size=cover}
+## Role {data-background=birds.jpg data-background-size=cover}
 
 Among the violations the commission searches out are these: (1) unregistered sale of securities subject to the registration requirement of the Securities Act of 1933, (2) fraudulent acts and practices such as <em>insider trading</em>, (3) manipulation of market prices, (4) carrying out of a securities business while insolvent, (5) misappropriation of customers’ funds by brokers and dealers, and (4) other unfair dealings by brokers and dealers.
 
